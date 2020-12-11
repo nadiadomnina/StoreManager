@@ -2,7 +2,7 @@
  * @author Nadia Domnina 
  * Section: 143 A 
  * Assignment: Grocery Manager
- * Date: 12.06.2020
+ * Date: 12.07.2020
  *
  * Grocery Manager
  * This class is used to manage a grocery inventory and process orders from
